@@ -10,3 +10,12 @@
  *
  * @package newdockertheme
  */
+
+get_header(); ?>
+
+<?php wp_head(); ?>
+
+<h1>The Front Page</h1>
+
+<?php
+get_footer();
