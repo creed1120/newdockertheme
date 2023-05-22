@@ -10,8 +10,8 @@
 /wp-content/languages
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
-/wp-content/themes/mydockertheme/node_modules/
-/wp-content/themes/mydockertheme/vendor/
+/wp-content/themes/*/node_modules/
+/wp-content/themes/*/vendor/
 /wp-includes/
 /index.php
 /license.txt
